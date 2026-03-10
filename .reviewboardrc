@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "http://localhost:8081"
+REPOSITORY = "reviewboard-demo"  # EXACT name in Review Board
+REPOSITORY_TYPE = "git"           # must be "git"
+BRANCH = "feature-branch"        # your working branch
+LAND_DEST_BRANCH = "main"
